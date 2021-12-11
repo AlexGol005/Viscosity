@@ -1,2 +1,2 @@
-import dash
-help(dash.html.Frame)
+import mypy
+help(mypy)
